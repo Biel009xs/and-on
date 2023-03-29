@@ -28,8 +28,35 @@ body {
 	text-align: center;
 	color: #FFFFFF;
 }
-
-.img-campanha {
+#NOVIDADES {
+	background: #87CEEB;
+	padding: 10px;
+}
+#SOBRE NÒS {
+	background: #87CEFA;
+	padding: 10px;
+}
+#CONTATO {
+	background: #ADD8E6;
+	padding: 10px;
+}
+#CORTES {
+	background: #B0E0E6;
+	padding: 10px;
+}
+#MODELOS {
+	background: #B0C4DE;
+	padding: 10px;
+}
+#CABELELEIROS {
+	background: #87CEFA;
+	padding: 10px;
+}
+#VIDEOS {
+	background: #87CEEB;
+	padding: 10px;
+}
+	img-campanha {
 	border: 10px solid #868A08;
 }
 
